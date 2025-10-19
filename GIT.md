@@ -12,4 +12,12 @@ git config --unset credentials.helper
 7. Git Cheat Sheet [link](https://education.github.com/git-cheat-sheet-education.pdf)
 8. Git Pro Book [link](https://git-scm.com/book/pl/v2)
 9. Notatki z kluczowymi informacjami do systemu GIT [link](https://github.com/bogdanpolak/nauka-gita)
- 
+
+###Exercices
+1. Learn GIT Branching [link](https://learngitbranching.js.org/)
+2. Conflict Practice [link](https://github.com/githubtraining/conflict-practice)
+3. Warsztaty Git [link](https://www.gitwarsztaty.pl/cwiczenia)
+
+### Interview questions
+1. Git pytania rekrutacyjne [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
+
